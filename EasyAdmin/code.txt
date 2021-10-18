@@ -1,0 +1,5 @@
+setr ea_MenuButton "f3"
+add_ace group.admin easyadmin allow
+ensure EasyAdmin
+
+exec easyadmin_permissions.cfg
